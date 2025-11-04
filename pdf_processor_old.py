@@ -9,7 +9,7 @@ from pathlib import Path
 import re
 
 # Configure Gemini AI
-genai.configure(api_key="AIzaSyAOWASxFk9NQ6vqIefbPMRkLDaOkB_97G0")
+genai.configure(api_key="")
 
 PROMPT = """
 You are a forensic-grade information extraction assistant. Your job is to read a newspaper PDF page (OCR'd text), detect all distinct notices/ads/records on the page, classify each, and return a single JSON object with:
