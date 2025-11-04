@@ -31,8 +31,8 @@ COOKIES = {
 
 # === Exact urlencoded body from your capture (kept as a single line) ===
 RAW_BODY = (
-    "clipping_id=&terms=Foreclosures&testing_clipping_search_date_range_clone=90"
-    "&date_from=08-26-2025&date_to=10-28-2025&clipping_display_images_server=main"
+    "clipping_id=&terms=Foreclosure&testing_clipping_search_date_range_clone=90"
+    "&date_from=08-03-2025&date_to=11-03-2025&clipping_display_images_server=main"
     "&select_all_pubblication_ids=on&publication_search_filter="
     "&pubblication_ids%5B%5D=2235&pubblication_ids%5B%5D=1781&pubblication_ids%5B%5D=1789"
     "&pubblication_ids%5B%5D=1783&pubblication_ids%5B%5D=1787&pubblication_ids%5B%5D=1785"

@@ -5,7 +5,7 @@ URL = (
     "https://opa.eclipping.org"
     "/eebrowser/bbe/2022032812.pa/public/freesearchtest/search/get-search-results"
     "/format/json"
-    "/session_id/6cd650c18eb7c407bc24a6f4277e7ad0"
+    "/session_id/9765f8ec89cee2f4bc1d2c869f382e68"
     "/type/legals"
     "/xtext_version/"
     "/clipping_id/"
@@ -27,7 +27,7 @@ HEADERS = {
 }
 
 COOKIES = {
-    # "PHPSESSID": "c8g13qc27kc59d0c6ihjpbs0bsis6r6f",
+    "PHPSESSID": "c8g13qc27kc59d0c6ihjpbs0bsis6r6f",
     "_ga": "GA1.2.1449247568.1761835612",
     "_gid": "GA1.2.921307114.1761835612",
     "_ga_GDMKX7QJYW": "GS2.2.s1761841243$o2$g1$t1761841251$j52$l0$h0",
@@ -39,7 +39,7 @@ payload = {
     "iColumns": "3",
     "sColumns": "",
     "iDisplayStart": "0",
-    "iDisplayLength": "100",
+    "iDisplayLength": "1000",
     "mDataProp_0": "0",
     "mDataProp_1": "1",
     "mDataProp_2": "2",
@@ -60,9 +60,9 @@ payload = {
     "bSortable_0": "true",
     "bSortable_1": "true",
     "bSortable_2": "true",
-    "date_from": "09-29-2025",
+    "date_from": "08-03-2025",
     "date_to": "",
-    "search_terms": "Foreclosures",
+    "search_terms": "Foreclosure",
     "pubblication_ids": "",
 }
 
