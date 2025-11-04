@@ -2,10 +2,10 @@
 from curl_cffi import requests
 
 URL = (
-    "https://wna.eclipping.org"
+    "https://www.montanapublicnotices.com"
     "/eebrowser/bbe/2022032812.pa/public/freesearchtest/search/get-search-results"
     "/format/json"
-    "/session_id/b243dc318255ff829855a48c776730a9"
+    "/session_id/e6d50c1f2accbdf903ff662c1b8c5612"
     "/type/legals"
     "/xtext_version/"
     "/clipping_id/"
@@ -16,8 +16,8 @@ HEADERS = {
     "accept": "application/json, text/javascript, */*; q=0.01",
     "accept-language": "en-US,en;q=0.9",
     "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-    "origin": "https://wna.eclipping.org",
-    "referer": "https://wna.eclipping.org/eebrowser/bbe/2022032812.pa/public/freesearchtest/search/index/type/legals/",
+    "origin": "https://www.montanapublicnotices.com",
+    "referer": "https://www.montanapublicnotices.com/eebrowser/bbe/2022032812.pa/public/freesearchtest/search/index/type/legals/",
     "sec-ch-ua": '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"',
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": '"Windows"',
